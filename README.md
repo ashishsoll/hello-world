@@ -1,4 +1,5 @@
 # hello-world
-First github code
+# First github code
 
-This is my first github code writing experience.
+# This is my first github code writing experience.
+print('Hello World')
